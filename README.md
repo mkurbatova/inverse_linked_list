@@ -1,4 +1,4 @@
-# reverse_linked_list
+# inverse_linked_list
 Домашнее задание после собеседования в компанию А*
 
 
